@@ -1,0 +1,19 @@
+{
+  "name": "boilerplate",
+  "description": "gulp test dev",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/Zalrak/class_gulp_boilerplate",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}
