@@ -1,0 +1,9 @@
+$font-base-size: 17px;
+
+$main-color: #00b3ee;
+$small-color: #9c0033;
+
+//function to transform px til rem
+@function rem($traget-px, $context: $font-base-size){
+  @return ($target-px/$context) * 1rem;
+}
